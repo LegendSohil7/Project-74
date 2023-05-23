@@ -1,0 +1,36 @@
+#contact iframe
+{
+    width: 100%;
+    background-color: lightgray;
+}
+.travel_mainDiv
+{
+    border: 1px solid black;
+    background-color: lightgray;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+    background-color: lightgray;
+}
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+    background-color: lightgray;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+    float: right;
+}
+.achievement_text span
+{
+    color: orange;
+}
+
